@@ -1,4 +1,5 @@
-The objective of this project is to delve more in depth into linked structures.
+The objective of this project is to utilize linked structures into the the construction of a 3-layered linked list simulating a daily commute in a city practical transit system with three modes of transportation: Train Stations, Bus Stops and walking.
+
 
 Overview
 You’ve just moved into a new city, and you’re planning your daily commute. You have 3 modes of public transportation available to you: the subway, the bus, and of course you can just walk. You can imagine locations in the city as a number line which increments from your starting location of 0 (zero). You can only move forward along this number line in your journey. The train is much faster than the bus, and the bus is much faster than walking. Unfortunately, the train can only stop at points where a train station exists, and the bus can only stop at points where a bus stop exists. You may assume that a bus stop exists at every train station, and that you may begin walking from any bus stop. You may walk forward and end your walking journey at any point.
